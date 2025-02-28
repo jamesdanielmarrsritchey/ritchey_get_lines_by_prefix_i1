@@ -1,0 +1,1 @@
+This folder is used to store additional files, which may be useful to end-users, or developers. Such files may include: documentation, additional scripts, templates.

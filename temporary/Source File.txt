@@ -1,0 +1,15 @@
+Name: Source File
+Description: This file is used to test the function out.
+Content:
+"
+This is a line.
+This is another line.
+This is the final line.
+"
+Content:
+"
+This is in the second capture area.
+This is another line in the second capture area.
+This is the final line in the second capture area.
+"
+Notes: This file uses '"' quotes for tags. Other tags can be used.

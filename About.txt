@@ -1,0 +1,33 @@
+# About
+
+NAME: Ritchey Get Lines By Prefix
+IMPLEMENTATION: 1
+VERSION: 1
+LONG IDENTIFIER: Ritchey Get Lines By Prefix i1 v1
+SHORT IDENTIFIER: RGLBPi1v1
+AUTHOR: James Daniel Marrs Ritchey
+
+## Overview
+
+Ritchey Get Lines By Prefix is a user-defined PHP function for extracting lines between a set of specified tags (e.g. '"'), after a specified prefix (e.g., "Content:").
+
+## Licensing
+
+This project is hereby licensed under the Ritchey Permissive License v19.
+
+## History
+
+Releases:
+- Project started February 28, 2025.
+- Version 1 completed February 28, 2025.
+
+Highlighted Changes:
+- 
+
+## Notes
+
+Technical:
+- Tags close with the first match found. There is no concept of tags within tags.
+
+Other:
+- 
